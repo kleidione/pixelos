@@ -1,3 +1,10 @@
+# 20-Oct-2025
+- Introduce PropImitationHooks
+- Add missing animations for settings
+- Disable volume level toggle for dolby atmos
+- Updated Brazilian Portuguese translation
+- Misc Chnages and Improvement
+
 # 19-Oct-2025
 - Fixed Screen Recorder
 - Fixed MiuiCamera crash
