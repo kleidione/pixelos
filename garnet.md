@@ -1,4 +1,14 @@
-# 20-Oct-2025
+# 24-oct-2025
+- Fixed Circle to Search
+- Fixed crash in Hotspot menu
+- Improvements C2 media service
+- Add refreshrate ilustration
+- Updated blobs from OS2.0.204.0.VNRMIXM
+- Updated Recovery UI
+- Updated Brazilian Portuguese translation
+- Miscellaneous changes and improvements
+
+# 21-Oct-2025
 - Introduce PropImitationHooks
 - Add missing animations for settings
 - Disable volume level toggle for dolby atmos
