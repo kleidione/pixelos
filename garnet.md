@@ -1,4 +1,10 @@
-# 24-oct-2025
+# 25-Oct-2025
+- Add logic for mapping unknown tiles
+- Add volume tile
+- Switch to KernelSU + SusFS support
+- Miscellaneous changes and improvements
+
+# 24-Oct-2025
 - Fixed Circle to Search
 - Fixed crash in Hotspot menu
 - Improvements C2 media service
