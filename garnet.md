@@ -1,3 +1,11 @@
+# 27-Oct-2025
+- Build some audio blobs from source
+- Kernel Upstream
+- Source upsteam
+- KernelSU + SuSFs support
+- Enable more abp2 flags
+- Miscellaneous changes and improvements
+
 # 25-Oct-2025
 - Add logic for mapping unknown tiles
 - Add volume tile
