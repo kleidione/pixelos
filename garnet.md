@@ -1,3 +1,9 @@
+# 30-Oct-2025
+- Improvements OTA update
+- Fix breaks dolby decoders
+- Add AC4Tbl params for dolby AC4 decode
+- Miscellaneous changes and improvements
+
 # 27-Oct-2025
 - Build some audio blobs from source
 - Kernel Upstream
