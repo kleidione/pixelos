@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1761823453,
-      "filename": "PixelOS_Garnet-16.0-20251030-1145.zip",
-      "id": "2dad2e5b2e1b663852d4996a5faa6937396d24208788106b7f2f500409d0da79",
-      "size": 2524228959,
-      "url": "https://sourceforge.net/projects/garnet-files/files/pixelos/PixelOS_Garnet-16.0-20251030-1145.zip/download",
+      "datetime": 1762111786,
+      "filename": "PixelOS_Garnet-16.0-20251102-1956.zip",
+      "id": "616bd6ffea60818a36aeeec50b22adc5f807684a94305837ddfd14bac06cf91c",
+      "size": 2525732482,
+      "url": "https://sourceforge.net/projects/garnet-files/files/pixelos/PixelOS_Garnet-16.0-20251102-1956.zip/download",
       "version": "16.0",
       "devicename": "Redmi Note 13 Pro 5G / Poco X6 5G",
       "maintainer": "Kleidione Freitas"

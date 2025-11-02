@@ -1,3 +1,10 @@
+# 02-Nov-2025
+- Synced source with latest upstream changes
+- Improved MIUI Camera: added new v6 icon with adaptive support
+- Enhanced Dolby configuration in dax-default.xml
+- Disabled some feature flags for better stability
+- Allowed vendor init to configure the SSR property
+
 # 30-Oct-2025
 - Improvements OTA update
 - Fix breaks dolby decoders
