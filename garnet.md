@@ -1,3 +1,13 @@
+
+# 10-Nov-2025
+- Added additional Dolby Audio configuration properties
+- Forced low-RAM configuration to be disabled
+- Removed duplicate definition of time_daemon service
+- Disabled unused audio post-processing streams
+- Refactored Dolby icon
+- Fixed SELinux denial for MIUI Camera
+- Restored support for KernelSU Next
+
 # 02-Nov-2025
 - Synced source with latest upstream changes
 - Improved MIUI Camera: added new v6 icon with adaptive support
