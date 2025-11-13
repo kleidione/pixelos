@@ -1,3 +1,7 @@
+# 13-Nov-2025
+- Resolved multiple SELinux issues related to MIUI Camera
+- Improved Dolby Atmos performance and stability
+- Other minor system optimizations
 
 # 10-Nov-2025
 - Added additional Dolby Audio configuration properties
