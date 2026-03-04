@@ -1,6 +1,4 @@
-# 01-08-26
-- Initial OTA update
-- Improve status bar padding
-- Update blobs from OS3.0.302.0.WPQMIXM
-- Fix AOD mode
-- Reduce kTorchMaxStrengthLevel
+# 04-08-26
+- Work around light sensor not re-registering on wake
+- Wire up per fps sf durations
+- Add missing icon celular security network internet
