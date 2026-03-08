@@ -1,4 +1,5 @@
-# 04-08-26
-- Work around light sensor not re-registering on wake
-- Wire up per fps sf durations
-- Add missing icon celular security network internet
+# 07-08-26
+- Fix various SEPolicy denials
+- Allow SurfaceFlinger to use the big cluster
+- Enable VoLTE, VoWiFi, and ViLTE for Egyptian and Portugal networks
+- Improve overall system stability and performance
