@@ -1,5 +1,3 @@
-# 07-08-26
-- Fix various SEPolicy denials
-- Allow SurfaceFlinger to use the big cluster
-- Enable VoLTE, VoWiFi, and ViLTE for Egyptian and Portugal networks
-- Improve overall system stability and performance
+# 08-08-26
+- Bug Fixes
+- Camera: Resolved a critical bug causing camera video feeds to fail or load incorrectly in the previous release.
