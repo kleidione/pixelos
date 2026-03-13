@@ -13,7 +13,6 @@ PixelOS is an AOSP-based custom ROM with Google Pixel extras, designed to provid
 | **Maintainer** | [@kleidione](https://github.com/kleidione) |
 | **Android Version** | 16 (Baklava) |
 
-
 ---
 
 ## 📥 Downloads
@@ -21,8 +20,6 @@ PixelOS is an AOSP-based custom ROM with Google Pixel extras, designed to provid
 | File | Link |
 | :--- | :--- |
 | **PixelOS ROM & Recovery** | [Download from SourceForge](https://sourceforge.net/projects/kunzite-files/files/pixelos/) |
-
----
 
 ---
 
@@ -76,14 +73,23 @@ PixelOS is an AOSP-based custom ROM with Google Pixel extras, designed to provid
      ```
 
 3. **Flashing Steps:**
-   - Boot into Recovery mode (`Volume Up + Power`).
-   - Go to **Factory Reset** > **Format data / factory reset** and confirm.
-   - Return to the main menu and select **Apply update** > **Apply from ADB**.
-   - Connect your device to your PC via USB and run:
-     ```bash
-     adb sideload /path/to/PixelOS_kunzite.zip
-     ```
-   - Reboot system and enjoy PixelOS!
+   - Boot into **Recovery Mode** (`Volume Up + Power`).
+   - Go to **Factory Reset** > **Format Data / Factory Reset** and confirm.
+   - Flash Regional Firmware:
+     - Go to **Apply update** > **Apply from ADB**.
+     - Sideload your regional firmware zip file:
+       ```bash
+       adb sideload /path/to/Firmware_region.zip
+       ```
+   - Reboot back into Recovery:
+     - Return to the main menu, select **Advanced** > **Reboot to recovery**.
+   - Flash PixelOS ROM:
+     - Once back in Recovery, go to **Apply update** > **Apply from ADB**.
+     - Sideload the PixelOS ROM zip file:
+       ```bash
+       adb sideload /path/to/PixelOS_kunzite.zip
+       ```
+   - Select **Reboot system now** and enjoy PixelOS!
 
 ---
 
