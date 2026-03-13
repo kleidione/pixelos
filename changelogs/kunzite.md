@@ -1,3 +1,6 @@
-# 08-08-26
-- Bug Fixes
-- Camera: Resolved a critical bug causing camera video feeds to fail or load incorrectly in the previous release.
+# 13-08-26
+- Fix Widevine DRM to L1
+- Improve Dolby Atmos
+- Update translation pt-BR
+- Update Lottie Animations
+- Fix Qualcomm security and system services
