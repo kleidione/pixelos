@@ -1,4 +1,5 @@
-# 17-08-26
-- Bump Security String to 2026-08-01
-- Fix flash led camera
-
+# 08-22-26
+- Initial Android 17
+- Fixed Auto Brightness
+- Resolved additional SELinux denials
+- Updated pt-BR translation

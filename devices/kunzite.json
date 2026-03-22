@@ -1,13 +1,16 @@
-{
-  "response": [
-    {
-      "datetime": 1787005168,
-      "filename": "PixelOS-kunzite-16.2-20260817-2225.zip",
-      "id": "3fce1d64650f56b9b75fdc3152cea0b55f68ce2d2cc3c938a675648030624fca",
-      "md5": "ff580257ce4231a9fb8995cd6b9f9d44",
-      "size": 2404743271,
-      "url": "https://sourceforge.net/projects/kunzite-files/files/pixelos/PixelOS-kunzite-16.2-20260817-2225.zip/download",
-      "version": "kunzite"
-    }
-  ]
-}
+[
+  {
+    "datetime": 1787422677,
+    "version": "17.0",
+    "files": [
+      {
+        "filename": "PixelOS-kunzite-17.0-20260822-1830.zip",
+        "os_patch_level": "2026-08-01",
+        "os_sdk_level": 37,
+        "sha256": "181aaceedc07ba2558c50c97ce3a70fd1c8fac7ad985be902e4317ac08e02cc4",
+        "size": 2643387678,
+        "url": "https://sourceforge.net/projects/kunzite-files/files/pixelos/PixelOS-kunzite-17.0-20260822-1830.zip/download"
+      }
+    ]
+  }
+]
