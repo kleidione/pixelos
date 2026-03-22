@@ -11,7 +11,7 @@ PixelOS is an AOSP-based custom ROM with Google Pixel extras, designed to provid
 | **Device** | Redmi Note 15 5G |
 | **Codename** | `kunzite` |
 | **Maintainer** | [@kleidione](https://github.com/kleidione) |
-| **Android Version** | 16 (Baklava) |
+| **Android Version** | 17 (Cinnamon Bun) |
 
 ---
 
@@ -26,21 +26,28 @@ PixelOS is an AOSP-based custom ROM with Google Pixel extras, designed to provid
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="./Screenshots/1.png" width="280" alt="Screenshot 1"/>
-  <img src="./Screenshots/2.png" width="280" alt="Screenshot 2"/>
-  <img src="./Screenshots/3.png" width="280" alt="Screenshot 3"/>
+  <img src="./Screenshots/10.png" width="280" alt="Screenshot 10"/>
+  <img src="./Screenshots/11.png" width="280" alt="Screenshot 11"/>
 </p>
 
 <p align="center">
-  <img src="./Screenshots/4.png" width="280" alt="Screenshot 4"/>
-  <img src="./Screenshots/5.png" width="280" alt="Screenshot 5"/>
-  <img src="./Screenshots/6.png" width="280" alt="Screenshot 6"/>
+  <img src="./Screenshots/12.png" width="280" alt="Screenshot 12"/>
+  <img src="./Screenshots/13.png" width="280" alt="Screenshot 13"/>
 </p>
 
 <p align="center">
-  <img src="./Screenshots/7.png" width="280" alt="Screenshot 7"/>
-  <img src="./Screenshots/8.png" width="280" alt="Screenshot 8"/>
-  <img src="./Screenshots/9.png" width="280" alt="Screenshot 9"/>
+  <img src="./Screenshots/14.png" width="280" alt="Screenshot 14"/>
+  <img src="./Screenshots/15.png" width="280" alt="Screenshot 15"/>
+</p>
+
+<p align="center">
+  <img src="./Screenshots/16.png" width="280" alt="Screenshot 16"/>
+  <img src="./Screenshots/17.png" width="280" alt="Screenshot 17"/>
+</p>
+
+<p align="center">
+  <img src="./Screenshots/18.png" width="280" alt="Screenshot 18"/>
+  <img src="./Screenshots/19.png" width="280" alt="Screenshot 19"/>
 </p>
 
 ---
